@@ -158,7 +158,7 @@ a,a:hover{
 	top: 48%;
 	right: -5px;
 }
-.ins{
+/* .ins{
 	width: 120px;
 	position: fixed;
 	top: 52%;
@@ -171,11 +171,11 @@ a,a:hover{
 	position: fixed;
 	top: 52%;
 	right: -5px;
-}
+} */
 .yts{
 	width: 120px;
 	position: fixed;
-	top: 56%;
+	top: 52%;
 	right: -97px;
 	cursor: pointer;
 	transition: 1s;
@@ -183,13 +183,13 @@ a,a:hover{
 .yts:hover{
 	width: 120px;
 	position: fixed;
-	top: 56%;
+	top: 52%;
 	right: -5px;
 }
 .pis{
 	width: 120px;
 	position: fixed;
-	top: 60%;
+	top: 56%;
 	right: -97px;
 	cursor: pointer;
 	transition: 1s;
@@ -197,7 +197,7 @@ a,a:hover{
 .pis:hover{
 	width: 120px;
 	position: fixed;
-	top: 60%;
+	top: 56%;
 	right: -5px;
 }
 /*	CSS for Social Media Icon  	*/
